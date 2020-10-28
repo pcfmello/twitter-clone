@@ -1,4 +1,5 @@
 import React from 'react';
+import Main from '../Main';
 
 import * as S from './styles';
 
